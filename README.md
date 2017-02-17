@@ -1,7 +1,7 @@
 # senti
 Senti - an open source project that will make Denmark smarter
 
-In collaboration with Geo Fyn A/S has MapCentia ApS and WebHouse ApS launched the open source project Senti.
+In collaboration with Geo Fyn A/S has <a href="http://www.mapcentia.com/" target="_blank">MapCentia ApS</a> and <a href="http://www.webhouse.dk/" target="_blank">WebHouse ApS</a> launched the open source project Senti.
 
 ## Purpose of the project
 
