@@ -1,5 +1,5 @@
 # senti
-## Senti is an open source project IoT product that will make Denmark smarter. 
+## Senti is an open source IoT product that will make cities smarter. 
 
 Senti is designed, developed and assembled in Denmark. 
 
