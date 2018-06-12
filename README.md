@@ -23,7 +23,7 @@ The goal is to develop an open source platform and system that makes it cheap an
 
 Initially, we have developed a collector, which is based on registration of passers wifi devices (phones with wifi on). Wifi count is tested in Svendborg and Odense municipalities since the start of 2016, where 9 Senti units have been set up in different parts of the cities. The results are mostly positive: The counts show clear trends in terms of rush hour, weekends, events, etc. Control counts show that about 1/3 of the passing road users will be registered.
 
-All data for the pilot is visualized on maps in the Senti Clous Dashboard at <a href="https://dashboard.senti.cloud/">Senti Cloud Dashboard</a> that collects and stores all the registrations for all Senti-in-a-Box devices.
+All data for the pilot is visualized on maps in the Senti Clous Dashboard at <a href="https://senti.cloud/">Senti Cloud Dashboard</a> that collects and stores all the registrations for all Senti-in-a-Box devices.
 
 ## For more info
 
